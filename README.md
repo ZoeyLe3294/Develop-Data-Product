@@ -1,6 +1,6 @@
 # Develop Data Products - Coursera Final Project
 
-##Flipping Coin Simulation
+## Flipping Coin Simulation
 
 This project will using Shiny application and R presentation to generate flipping 1 or many coins. Then examine the probability (for 1 coin) and compare mean and variance between those generated from the simulation and those from the theory formulas.
 
